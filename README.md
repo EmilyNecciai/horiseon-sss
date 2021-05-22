@@ -84,7 +84,7 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 
 ### Task 4: Heading Attributes in Sequential Order
 
-### Task 5: Title Element should be both Consice and Descriptive
+### Task 5: Title Element should be both Concise and Descriptive
 
 ### General Debugging as a Last Step
 
