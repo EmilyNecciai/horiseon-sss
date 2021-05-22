@@ -55,7 +55,7 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 
 ## Mock Up
 
-![Mock Up of the Horiseon marketing home page.](assets\images\01-html-css-git-homework-mockup.png)
+![Mock Up of the Horiseon marketing home page.](\assets\images\01-html-css-git-homework-mockup.png)
 
 ## The Plan
 
