@@ -1,7 +1,7 @@
 # Module 1 Challenge
 This project is meant to test my basic HTML and CSS skills, as they're the foundation for coming lessons. 
 
-[Link to My Horiseon Site]()
+[Link to My Horiseon Site](https://emilynecciai.github.io/urban-octo-telegram/)
 
 [INSERT FINAL SCREENSHOT HERE]
 
