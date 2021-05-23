@@ -1,9 +1,9 @@
 # Module 1 Challenge
 This project is meant to test my basic HTML and CSS skills, as they're the foundation for coming lessons. 
 
-[Link to My Horiseon Site]()
+[Link to My Horiseon Site](https://emilynecciai.github.io/horiseon-sss/)
 
-[INSERT FINAL SCREENSHOT HERE]
+![Final Site Screenshot](https://github.com/EmilyNecciai/horiseon-sss/blob/8bd9d6d7d4ce5d288bdac984f119460ac0ddb50b/assets/images/final-site-screenshot.png)
 
 
 ## User Story
