@@ -1,7 +1,7 @@
 # Module 1 Challenge
 This project is meant to test my basic HTML and CSS skills, as they're the foundation for coming lessons. 
 
-[Link to My Horiseon Site](https://emilynecciai.github.io/urban-octo-telegram/)
+[Link to My Horiseon Site]()
 
 [INSERT FINAL SCREENSHOT HERE]
 
@@ -51,11 +51,6 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 12. Repository contains multiple descriptive commit messages.
 13. Repository contains quality README file with description, screenshot, and link to deployed application.
 
-
-
-## Mock Up
-
-![Mock Up of the Horiseon marketing home page.](\assets\images\01-html-css-git-homework-mockup.png)
 
 ## The Plan
 
